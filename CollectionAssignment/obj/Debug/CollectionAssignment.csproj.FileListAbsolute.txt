@@ -1,0 +1,7 @@
+E:\Dot Net\CollectionAssignment\CollectionAssignment\bin\Debug\CollectionAssignment.exe.config
+E:\Dot Net\CollectionAssignment\CollectionAssignment\bin\Debug\CollectionAssignment.exe
+E:\Dot Net\CollectionAssignment\CollectionAssignment\bin\Debug\CollectionAssignment.pdb
+E:\Dot Net\CollectionAssignment\CollectionAssignment\obj\Debug\CollectionAssignment.csprojAssemblyReference.cache
+E:\Dot Net\CollectionAssignment\CollectionAssignment\obj\Debug\CollectionAssignment.csproj.CoreCompileInputs.cache
+E:\Dot Net\CollectionAssignment\CollectionAssignment\obj\Debug\CollectionAssignment.exe
+E:\Dot Net\CollectionAssignment\CollectionAssignment\obj\Debug\CollectionAssignment.pdb
