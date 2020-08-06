@@ -1,0 +1,6 @@
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\obj\Debug\AssignmentCollections.csproj.CoreCompileInputs.cache
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+E:\Dot Net\CollectionAsssign\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
